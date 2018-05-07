@@ -1,0 +1,36 @@
+#mainDiv {
+    width: 60%;
+    height: 100%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+#videoPlayerContainer {
+    border-bottom: solid;
+    margin-bottom: 2%;
+    padding-bottom: 2%;
+    border-color: lightgrey;
+}
+
+#videoPlayer {
+    width: 80%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+#webcamButton {
+    
+}
+
+#classifyButton {
+    width: 40%;
+}
+
+#videoFilePicker {
+    width: 80%;
+    background-color: lightgrey;
+}
+
+#panel panel-primary {
+    margin-top: 25%;
+}
